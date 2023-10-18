@@ -30,7 +30,8 @@ value2=int(input())
 value1,value2=swap_values(value1,value2)
 print("Swapped values are:",value1,value2)    
 ```
-
+## OUTPUT:
+![output1](output1.png)
 
 
 ## RESULT:
